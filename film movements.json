@@ -26,15 +26,36 @@
         "FNT": "Francuski Novi Talasi"
     },
     "ControlButtonRequirement": {
-        "start.html": {"S"},
-        "uvod.html": {"US", "S"},
-        "NE.html": {"US", "S"},
-        "SM.html": {"US", "S"},
-        "FI.html": {"US", "S"},
-        "IN.html": {"US", "S"},
-        "FNT.html": {"US", "S"},
+        "start.html": {
+            "1": "S"
+        },
+        "uvod.html": {
+            "1": "US", 
+            "2": "S"
+        },
+        "NE.html": {
+            "1": "US", 
+            "2": "S"
+        },
+        "SM.html": {
+            "1": "US", 
+            "2": "S"
+        },
+        "FI.html": {
+            "1": "US", 
+            "2": "S"
+        },
+        "IN.html": {
+            "1": "US", 
+            "2": "S"
+        },
+        "FNT.html": {
+            "1": "US", 
+            "2": "S"
+        },
     }
 
 }
+
 
 
