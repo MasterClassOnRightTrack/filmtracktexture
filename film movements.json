@@ -8,13 +8,22 @@
         "6": "IN",
         "7": "FNT"
     },
-    "NumberToSlide": {
+    "SlideToPosition": {
        "start.html": 1,
        "uvod.html": 2,
        "NE.html": 3,
-       "SM": 4,
-       "FI": 5,
-       "IN": 6,
-       "FNT": 7 
+       "SM.html": 4,
+       "FI.html": 5,
+       "IN.html": 6,
+       "FNT.html": 7 
+    },
+    "NumberToSlideName": {
+        "uvod": "uvod",
+        "NE": "Nemački Ekspresionizam",
+        "SM": "Sovjetska Montaža",
+        "FI": "Francuski Impresionizam",
+        "IN": "Italijanski Neorealizam",
+        "FNT": "Francuski Novi Talasi"
     }
+
 }
