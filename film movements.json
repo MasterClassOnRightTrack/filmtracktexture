@@ -1,0 +1,20 @@
+{
+    "SlideList": {
+        "1": "start",
+        "2": "uvod",
+        "3": "NE",
+        "4": "SM",
+        "5": "FI",
+        "6": "IN",
+        "7": "FNT"
+    },
+    "NumberToSlide": {
+       "start.html": 1,
+       "uvod.html": 2,
+       "NE.html": 3,
+       "SM": 4,
+       "FI": 5,
+       "IN": 6,
+       "FNT": 7 
+    }
+}
