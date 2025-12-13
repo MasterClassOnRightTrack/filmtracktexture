@@ -14,4 +14,14 @@ export function openFile(link, newTab) {
     document.body.removeChild(newA);
 };
 
+async function fetchDataFromLinkmain(url, DataType) {
+    let newData = await fetch(url)
+    .then(response => response[DataType]())
+
+    return newData
+};
+
+export async function fetchDataFromLink(url, DataType) {
+    return await fetchDataFromLinkmain(url, DataType)
+};
 
