@@ -24,7 +24,17 @@
         "FI": "Francuski Impresionizam",
         "IN": "Italijanski Neorealizam",
         "FNT": "Francuski Novi Talasi"
+    },
+    "ControlButtonRequirement": {
+        "start.html": {"S"},
+        "uvod.html": {"US", "S"},
+        "NE.html": {"US", "S"},
+        "SM.html": {"US", "S"},
+        "FI.html": {"US", "S"},
+        "IN.html": {"US", "S"},
+        "FNT.html": {"US", "S"},
     }
 
 }
+
 
