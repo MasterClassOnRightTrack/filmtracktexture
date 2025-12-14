@@ -1,5 +1,10 @@
-export function returnHtmlDocName() {
-    return location.pathname.split("/").pop();
+export function returnHtmlDocName(ExcludeExtension) {
+    let docName = location.pathname.split("/").pop();
+
+    if (ExcludeExtension != null && ExcludeExtension == true) {
+        docName = docName.split(".")[1]
+    }
+    return docName;
 };
 
 export function openFile(link, newTab) {
@@ -36,4 +41,5 @@ export function setFontSize(Element, fontSize) {
 
     Element.style.fontSize = fontSize;
 };
+
 
