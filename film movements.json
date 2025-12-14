@@ -18,6 +18,7 @@
        "FNT.html": 7 
     },
     "NumberToSlideName": {
+        "start": "Filmski Pokreti",
         "uvod": "Uvod",
         "NE": "Nemački Ekspresionizam",
         "SM": "Sovjetska Montaža",
@@ -55,3 +56,4 @@
         }
     }
 }
+
