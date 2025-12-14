@@ -42,5 +42,18 @@ export function setFontSize(Element, fontSize) {
     Element.style.fontSize = fontSize;
 };
 
+export function entryObjectIntoEntryTable(givenObject) {
+    const entryArray = Object.entries(givenObject);
+
+    let entryTable = {};
+
+    for (const key in entryArray) {
+        const value = entryArray[key];
+
+        entryTable[value[0]] = value[1]
+    };
+
+    return entryTable;
+};
 
 
