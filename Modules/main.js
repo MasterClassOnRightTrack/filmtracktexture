@@ -25,3 +25,15 @@ export async function fetchDataFromLink(url, DataType) {
     return await fetchDataFromLinkmain(url, DataType)
 };
 
+export function setFontSize(Element, fontSize) {
+    let retrivedFontSize = Element.getAttribute("cTS");
+    
+    if (fontSize == null && retrivedFontSize != null) {
+        fontSize = retrivedFontSize;
+    }else if (fontSize == null && retrivedFontSize == null) {
+        fontSize = "25px";
+    };
+
+    Element.style.fontSize = fontSize;
+};
+
