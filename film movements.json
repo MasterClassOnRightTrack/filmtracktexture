@@ -19,7 +19,7 @@
     },
     "NumberToSlideName": {
         "start": "Filmski Pokreti",
-        "uvod": "Uvod",
+        "uvod": "Uvod u filmove",
         "NE": "Nemački Ekspresionizam",
         "SM": "Sovjetska Montaža",
         "FI": "Francuski Impresionizam",
@@ -58,7 +58,7 @@
     "OptionalDATA": {
         "uvod.html": {
             "1": "1894-", 
-            "2": "„Uvod u filmske pokrete — otkrij magiju kinematografije!“",
+            "2": "Uvod u filmske pokrete — otkrij magiju kinematografije! Film nije samo niz slika na platnu, već prozor u vreme, emocije i ideje koje su oblikovale čitave generacije. Od prvih pokušaja da se pokret uhvati kamerom, pa sve do velikih umetničkih revolucija koje su menjale način na koji gledamo svet, svaki pokret nosi svoju priču.",
             "3": "UvodRandomPost.png"
         },
         "NE.html": {
@@ -88,6 +88,7 @@
         }
     }
 }
+
 
 
 
