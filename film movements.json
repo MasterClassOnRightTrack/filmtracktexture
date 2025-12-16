@@ -9,13 +9,13 @@
         "7": "FNT"
     },
     "SlideToPosition": {
-       "start.html": 1,
-       "uvod.html": 2,
-       "NE.html": 3,
-       "SM.html": 4,
-       "FI.html": 5,
-       "IN.html": 6,
-       "FNT.html": 7 
+       "start.html": 0,
+       "uvod.html": 1,
+       "NE.html": 2,
+       "SM.html": 3,
+       "FI.html": 4,
+       "IN.html": 5,
+       "FNT.html": 6 
     },
     "NumberToSlideName": {
         "start": "Filmski Pokreti",
@@ -88,6 +88,7 @@
         }
     }
 }
+
 
 
 
