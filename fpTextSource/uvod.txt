@@ -54,4 +54,4 @@ Filmska industrija zapošljava veliki broj ljudi i doprinosi ekonomiji kroz proi
 "- Moda i stil:
 Filmovi utiču na modu, frizure i način života. Ikonični kostimi i scene često postaju inspiracija za dizajnere i potrošače.",
 "- Tehnološki napredak:
-Potreba za boljim efektima i kvalitetnijim prikazom podstakla je razvoj tehnologija u snimanju, montaži i prikazu filmova. Te tehnologije često prelaze i u druge oblasti, poput medicine ili obrazovanja.",
+Potreba za boljim efektima i kvalitetnijim prikazom podstakla je razvoj tehnologija u snimanju, montaži i prikazu filmova. Te tehnologije često prelaze i u druge oblasti, poput medicine ili obrazovanja."
