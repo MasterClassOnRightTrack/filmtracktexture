@@ -39,7 +39,7 @@ export function setFontSize(Element, fontSize) {
         fontSize = "25px";
     };
 
-    Element.style.fontSize = fontSize;
+    Element.style.setProperty("fontSize", fontSize, "important");
 };
 
 export function entryObjectIntoEntryTable(givenObject) {
@@ -55,5 +55,6 @@ export function entryObjectIntoEntryTable(givenObject) {
 
     return entryTable;
 };
+
 
 
