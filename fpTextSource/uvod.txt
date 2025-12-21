@@ -12,27 +12,27 @@ text = Posleratni period doneo je više eksperimentisanja, a od 1960-ih i 1970-i
 subtitle = Kako nastaje film? //
 
 multilevelText = 
-"Ideja i scenario: Sve počinje idejom. Ta ideja se razvija u scenario — tekst koji opisuje radnju, dijaloge i osnovne scene. 
-Scenario može nastati kao originalna priča ili kao adaptacija knjige, pozorišne predstave, članka ili stvarnog događaja.",
-"Preprodukcija: U ovoj fazi planira se sve što je potrebno za snimanje: budžet, lokacije, izbor glumaca, angažovanje ekipe, kostimografija, scenografija i raspored snimanja. Režiser i producenti donose ključne odluke o stilu i tonu filma.",
-"Produkcija (snimanje): Ovo je faza kada se film snima. Kamera beleži scene prema scenariju, glumci igraju svoje uloge, a tehnička ekipa brine o osvetljenju, zvuku i vizuelnim detaljima. Snimanje može trajati od nekoliko dana do nekoliko meseci, zavisno od obima projekta.",
-"Postprodukcija: Nakon snimanja sledi montaža — spajanje snimljenih scena u celinu. Dodaju se muzika, zvučni efekti, boja se koriguje, a specijalni efekti se integrišu. Postprodukcija je često dugotrajan proces koji oblikuje konačan ritam i atmosferu filma.",
-"Distribucija i promocija: Kada je film gotov, potrebno ga je prikazati publici. To se radi kroz bioskope, televiziju, striming servise, festivale i druge kanale. Promocija uključuje plakate, trejlere, intervjue i kampanje na društvenim mrežama."//
+((Ideja i scenario: Sve počinje idejom. Ta ideja se razvija u scenario — tekst koji opisuje radnju, dijaloge i osnovne scene. 
+Scenario može nastati kao originalna priča ili kao adaptacija knjige, pozorišne predstave, članka ili stvarnog događaja.));
+((Preprodukcija: U ovoj fazi planira se sve što je potrebno za snimanje: budžet, lokacije, izbor glumaca, angažovanje ekipe, kostimografija, scenografija i raspored snimanja. Režiser i producenti donose ključne odluke o stilu i tonu filma.));
+((Produkcija (snimanje): Ovo je faza kada se film snima. Kamera beleži scene prema scenariju, glumci igraju svoje uloge, a tehnička ekipa brine o osvetljenju, zvuku i vizuelnim detaljima. Snimanje može trajati od nekoliko dana do nekoliko meseci, zavisno od obima projekta.));
+((Postprodukcija: Nakon snimanja sledi montaža — spajanje snimljenih scena u celinu. Dodaju se muzika, zvučni efekti, boja se koriguje, a specijalni efekti se integrišu. Postprodukcija je često dugotrajan proces koji oblikuje konačan ritam i atmosferu filma.));
+((Distribucija i promocija: Kada je film gotov, potrebno ga je prikazati publici. To se radi kroz bioskope, televiziju, striming servise, festivale i druge kanale. Promocija uključuje plakate, trejlere, intervjue i kampanje na društvenim mrežama.))//
 
 text = Filmovi se često dele po žanrovima, a svaki žanr ima svoje karakteristike i očekivanja publike. Ovde su najvažniji žanrovi sa jednostavnim objašnjenjima: //
 
 title = Glavni žanrovi //
 
 multilevelText = 
-"Drama: Drama se fokusira na likove i njihove unutrašnje konflikte. U dramama su emocije, odnosi i razvoj ličnosti u prvom planu. Često se bave ozbiljnim temama i životnim dilemama.",
-"Komedija: Cilj komedije je da nasmeje publiku. Postoje različite vrste komedija: romantične komedije, crne komedije, slapstick i satira. Komedija često koristi preterivanje, nesporazume i neočekivane obrte.",
-"Akcija i avantura: Ovi filmovi naglašavaju tempo, napetost i fizičke sukobe. U akcijama su česte scene potera, borbi i spektakularnih efekata. Avantura često uključuje putovanje i otkrivanje novih svetova.",
-"Triler i misterija: Trileri grade napetost i neizvesnost. Misterije podstiču gledaoce da prate tragove i pokušaju da reše zagonetku pre nego što se otkrije kraj.",
-"Horor: Horor ima za cilj da izazove strah i nelagodu. Koristi atmosferu, zvuk i vizuelne elemente da bi stvorio osećaj pretnje. Postoje psihološki horori, nadnaravni horori i gore horori.",
-"Naučna fantastika i fantazija: Ovi žanrovi istražuju mogućnosti koje nisu realne u svakodnevnom svetu. Naučna fantastika često razmatra tehnologiju i budućnost, dok fantazija uvodi magiju, mitska bića i imaginarne svetove.",
-"Romansa: Romantični filmovi se fokusiraju na ljubavne odnose i emotivne veze između likova. Često prate razvoj veze, prepreke i emotivne preokrete.",
-"Dokumentarni film: Dokumentarci beleže stvarne događaje, ljude i fenomene. Njihov cilj je informisanje, istraživanje ili podsticanje na razmišljanje. Dokumentarci mogu biti edukativni, istraživački ili lični.",
-"Animacija: Animirani filmovi koriste crtanje, računar ili druge tehnike da bi stvorili pokretne slike. Animacija nije ograničena na decu; postoje animirani filmovi za odrasle sa složenim temama." //
+((Drama: Drama se fokusira na likove i njihove unutrašnje konflikte. U dramama su emocije, odnosi i razvoj ličnosti u prvom planu. Često se bave ozbiljnim temama i životnim dilemama.));
+((Komedija: Cilj komedije je da nasmeje publiku. Postoje različite vrste komedija: romantične komedije, crne komedije, slapstick i satira. Komedija često koristi preterivanje, nesporazume i neočekivane obrte.));
+((Akcija i avantura: Ovi filmovi naglašavaju tempo, napetost i fizičke sukobe. U akcijama su česte scene potera, borbi i spektakularnih efekata. Avantura često uključuje putovanje i otkrivanje novih svetova.));
+((Triler i misterija: Trileri grade napetost i neizvesnost. Misterije podstiču gledaoce da prate tragove i pokušaju da reše zagonetku pre nego što se otkrije kraj.));
+((Horor: Horor ima za cilj da izazove strah i nelagodu. Koristi atmosferu, zvuk i vizuelne elemente da bi stvorio osećaj pretnje. Postoje psihološki horori, nadnaravni horori i gore horori.));
+((Naučna fantastika i fantazija: Ovi žanrovi istražuju mogućnosti koje nisu realne u svakodnevnom svetu. Naučna fantastika često razmatra tehnologiju i budućnost, dok fantazija uvodi magiju, mitska bića i imaginarne svetove.));
+((Romansa: Romantični filmovi se fokusiraju na ljubavne odnose i emotivne veze između likova. Često prate razvoj veze, prepreke i emotivne preokrete.));
+((Dokumentarni film: Dokumentarci beleže stvarne događaje, ljude i fenomene. Njihov cilj je informisanje, istraživanje ili podsticanje na razmišljanje. Dokumentarci mogu biti edukativni, istraživački ili lični.));
+((Animacija: Animirani filmovi koriste crtanje, računar ili druge tehnike da bi stvorili pokretne slike. Animacija nije ograničena na decu; postoje animirani filmovi za odrasle sa složenim temama.)) //
 
 text = Svaki žanr može se mešati sa drugim žanrovima, pa tako nastaju hibridi kao što su akcione komedije, romantični trileri ili naučno-fantastične drame. Mešanje žanrova omogućava kreativnost i iznenađenja. //
 
@@ -41,17 +41,17 @@ text = Filmovi imaju snažan uticaj na način na koji ljudi razmišljaju, oseća
 subtitle = Uticaj filmova na društvo, kulturu i pojedinca //
 
 multilevelText = 
-"- Obrazovanje i informisanje:
-Dokumentarni filmovi i istorijske drame mogu da približe složene teme široj publici. Film može da objasni istorijske događaje, društvene probleme i naučne ideje na razumljiv način.",
-"- Empatija i razumevanje:
-Gledanje priča iz perspektive drugih ljudi pomaže publici da razvije empatiju. Filmovi koji prikazuju različite kulture, identitete i sudbine mogu smanjiti predrasude i proširiti vidike.",
-"- Zabava i beg od stvarnosti:
-Filmovi pružaju odmor od svakodnevnih briga. Komedije, akcije i avanture omogućavaju gledanje bez previše razmišljanja i pružaju zadovoljstvo.",
-"- Kritika i refleksija:
-'Mnogi filmovi postavljaju pitanja o društvu, politici i moralu. Kroz priče i likove, film može da kritikuje nepravdu, ukaže na probleme i podstakne diskusiju.'",
-"- Ekonomski uticaj:
-Filmska industrija zapošljava veliki broj ljudi i doprinosi ekonomiji kroz proizvodnju, distribuciju i turizam (lokacije snimanja često postaju turističke atrakcije).",
-"- Moda i stil:
-Filmovi utiču na modu, frizure i način života. Ikonični kostimi i scene često postaju inspiracija za dizajnere i potrošače.",
-"- Tehnološki napredak:
-Potreba za boljim efektima i kvalitetnijim prikazom podstakla je razvoj tehnologija u snimanju, montaži i prikazu filmova. Te tehnologije često prelaze i u druge oblasti, poput medicine ili obrazovanja."
+((- Obrazovanje i informisanje:
+Dokumentarni filmovi i istorijske drame mogu da približe složene teme široj publici. Film može da objasni istorijske događaje, društvene probleme i naučne ideje na razumljiv način.));
+((- Empatija i razumevanje:
+Gledanje priča iz perspektive drugih ljudi pomaže publici da razvije empatiju. Filmovi koji prikazuju različite kulture, identitete i sudbine mogu smanjiti predrasude i proširiti vidike.));
+((- Zabava i beg od stvarnosti:
+Filmovi pružaju odmor od svakodnevnih briga. Komedije, akcije i avanture omogućavaju gledanje bez previše razmišljanja i pružaju zadovoljstvo.));
+((- Kritika i refleksija:
+'Mnogi filmovi postavljaju pitanja o društvu, politici i moralu. Kroz priče i likove, film može da kritikuje nepravdu, ukaže na probleme i podstakne diskusiju.'));
+((- Ekonomski uticaj:
+Filmska industrija zapošljava veliki broj ljudi i doprinosi ekonomiji kroz proizvodnju, distribuciju i turizam (lokacije snimanja često postaju turističke atrakcije).));
+((- Moda i stil:
+Filmovi utiču na modu, frizure i način života. Ikonični kostimi i scene često postaju inspiracija za dizajnere i potrošače.));
+((- Tehnološki napredak:
+Potreba za boljim efektima i kvalitetnijim prikazom podstakla je razvoj tehnologija u snimanju, montaži i prikazu filmova. Te tehnologije često prelaze i u druge oblasti, poput medicine ili obrazovanja.));
