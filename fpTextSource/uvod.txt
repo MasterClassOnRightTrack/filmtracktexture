@@ -41,17 +41,10 @@ text = Filmovi imaju snažan uticaj na način na koji ljudi razmišljaju, oseća
 subtitle = Uticaj filmova na društvo //
 
 multilevelText = 
-((- Obrazovanje i informisanje:
-Dokumentarni filmovi i istorijske drame mogu da približe složene teme široj publici. Film može da objasni istorijske događaje, društvene probleme i naučne ideje na razumljiv način.));
-((- Empatija i razumevanje:
-Gledanje priča iz perspektive drugih ljudi pomaže publici da razvije empatiju. Filmovi koji prikazuju različite kulture, identitete i sudbine mogu smanjiti predrasude i proširiti vidike.));
-((- Zabava i beg od stvarnosti:
-Filmovi pružaju odmor od svakodnevnih briga. Komedije, akcije i avanture omogućavaju gledanje bez previše razmišljanja i pružaju zadovoljstvo.));
-((- Kritika i refleksija:
-'Mnogi filmovi postavljaju pitanja o društvu, politici i moralu. Kroz priče i likove, film može da kritikuje nepravdu, ukaže na probleme i podstakne diskusiju.'));
-((- Ekonomski uticaj:
-Filmska industrija zapošljava veliki broj ljudi i doprinosi ekonomiji kroz proizvodnju, distribuciju i turizam (lokacije snimanja često postaju turističke atrakcije).));
-((- Moda i stil:
-Filmovi utiču na modu, frizure i način života. Ikonični kostimi i scene često postaju inspiracija za dizajnere i potrošače.));
-((- Tehnološki napredak:
-Potreba za boljim efektima i kvalitetnijim prikazom podstakla je razvoj tehnologija u snimanju, montaži i prikazu filmova. Te tehnologije često prelaze i u druge oblasti, poput medicine ili obrazovanja.))
+((- Obrazovanje i informisanje: Dokumentarni filmovi i istorijske drame mogu da približe složene teme široj publici. Film može da objasni istorijske događaje, društvene probleme i naučne ideje na razumljiv način.));
+((- Empatija i razumevanje: Gledanje priča iz perspektive drugih ljudi pomaže publici da razvije empatiju. Filmovi koji prikazuju različite kulture, identitete i sudbine mogu smanjiti predrasude i proširiti vidike.));
+((- Zabava i beg od stvarnosti: Filmovi pružaju odmor od svakodnevnih briga. Komedije, akcije i avanture omogućavaju gledanje bez previše razmišljanja i pružaju zadovoljstvo.));
+((- Kritika i refleksija: 'Mnogi filmovi postavljaju pitanja o društvu, politici i moralu. Kroz priče i likove, film može da kritikuje nepravdu, ukaže na probleme i podstakne diskusiju.'));
+((- Ekonomski uticaj: Filmska industrija zapošljava veliki broj ljudi i doprinosi ekonomiji kroz proizvodnju, distribuciju i turizam (lokacije snimanja često postaju turističke atrakcije).));
+((- Moda i stil: Filmovi utiču na modu, frizure i način života. Ikonični kostimi i scene često postaju inspiracija za dizajnere i potrošače.));
+((- Tehnološki napredak: Potreba za boljim efektima i kvalitetnijim prikazom podstakla je razvoj tehnologija u snimanju, montaži i prikazu filmova. Te tehnologije često prelaze i u druge oblasti, poput medicine ili obrazovanja.))
