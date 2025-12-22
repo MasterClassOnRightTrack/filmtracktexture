@@ -38,7 +38,7 @@ text = Svaki žanr može se mešati sa drugim žanrovima, pa tako nastaju hibrid
 
 text = Filmovi imaju snažan uticaj na način na koji ljudi razmišljaju, osećaju i deluju. Oni oblikuju kulturne norme, utiču na modu, muziku i jezik, i često postaju deo kolektivne memorije. Evo nekoliko načina na koje filmovi utiču na društvo. //
 
-subtitle = Uticaj filmova na društvo, kulturu i pojedinca //
+subtitle = Uticaj filmova na društvo //
 
 multilevelText = 
 ((- Obrazovanje i informisanje:
@@ -54,4 +54,4 @@ Filmska industrija zapošljava veliki broj ljudi i doprinosi ekonomiji kroz proi
 ((- Moda i stil:
 Filmovi utiču na modu, frizure i način života. Ikonični kostimi i scene često postaju inspiracija za dizajnere i potrošače.));
 ((- Tehnološki napredak:
-Potreba za boljim efektima i kvalitetnijim prikazom podstakla je razvoj tehnologija u snimanju, montaži i prikazu filmova. Te tehnologije često prelaze i u druge oblasti, poput medicine ili obrazovanja.));
+Potreba za boljim efektima i kvalitetnijim prikazom podstakla je razvoj tehnologija u snimanju, montaži i prikazu filmova. Te tehnologije često prelaze i u druge oblasti, poput medicine ili obrazovanja.))
