@@ -1,0 +1,42 @@
+title = Nemački ekspresionizam uopšteno //
+text = Nemački ekspresionizam je umetnički pravac koji se razvio u Nemačkoj početkom 20. veka i postao posebno vidljiv u periodu između Prvog svetskog rata i dolaska nacizma. Suština ekspresionizma leži u nameri da umetnost prikaže unutrašnja osećanja, psihološke tenzije i subjektivni doživljaj stvarnosti, umesto da verno reproducira spoljašnji svet. Umetnici su koristili deformaciju forme, stilizaciju i simboliku kako bi preneli anksioznost, strah i otuđenje koje su osećali u društvu pogođenom ratom, ekonomskom krizom i političkom nestabilnošću.
+U filmskom jeziku ekspresionizam je postao sredstvo za vizuelno izražavanje unutrašnjih stanja likova i kolektivnih strahova. Film je, kao relativno nova umetnička forma, omogućio sintezu scenografije, svetla, kamere i montaže u cilju stvaranja atmosfere koja ne imitira realnost, već je transformiše u simbolički i emotivni prostor.//
+
+title = Istorijski okvir i društveni kontekst //
+text = Nemačka posleratna stvarnost bila je obeležena porazom u ratu, ekonomskim kolapsom, hiperinflacijom i političkim sukobima. Weimarska republika je bila period intenzivnih društvenih promena i kulturne dinamike. U takvom okruženju umetnici su tražili nove načine izraza koji bi odgovarali osećanju krize i nesigurnosti. Ekspresionizam je odgovorio na tu potrebu kroz naglašenu subjektivnost, simboličku upotrebu prostora i intenzivnu emotivnu ekspresiju.
+Filmska industrija u Nemačkoj je u tom periodu bila organizovana oko studija koji su omogućavali kontrolisanu produkciju kompleksnih setova i eksperimentisanje sa vizuelnim stilom. Tehnička i produkcijska infrastruktura, zajedno sa talentovanim režiserima, scenografima i glumcima, stvorila je uslove za nastanak filmova koji su koristili scenu kao izraz unutrašnjeg sveta. //
+
+title = Estetika ekspresionizma u filmu //
+text = Scenografija. Setovi su često veštački i namerno izobličeni. Zidovi, ulice i enterijeri prikazivani su pod neprirodnim uglovima, sa iskrivljenim linijama i naglašenim kontrastima. Scenografija nije služila vernom prikazu prostora, već simbolizaciji psihološkog stanja likova i atmosfere priče.
+Svetlo i senke. Dramatično osvetljenje i oštre senke ključni su elementi. Svetlo se koristi selektivno da izvuče određene oblike i da stvori osećanje pretnje ili unutrašnjeg nemira. Senke postaju aktivni deo kompozicije, često preuzimajući ulogu koja u realističkom filmu pripada likovima ili radnji.
+Kamera i kadriranje. Kadriranje naglašava asimetriju i nelagodnost. Perspektive su često izmenjene, sa naglim uglovima i neobičnim tačkama gledanja. Kamera ne služi samo dokumentovanju radnje; ona oblikuje percepciju prostora i psihološki ton prizora.
+Gluma. Gluma u ekspresionističkim filmovima je stilizovana i teatralna. Pokreti su često preuveličani, mimika naglašena, a telo koristi simboliku. Glumci ne pokušavaju da budu „prirodni“; oni postaju nosioci unutrašnjih stanja koja film želi da prikaže.
+Montaža i ritam. Montaža se koristi da pojača emotivni intenzitet i da stvori disonantne prelaze između scena. Ritam montaže može biti ubrzan ili fragmentaran kako bi se prenela psihološka napetost. //
+
+title = Tematske odlike //
+subtitle = Ekspresionistički filmovi često obrađuju sledeće teme: //
+multilevelText = 
+((- Ludilo i psihička fragmentacija. Priče često prikazuju likove koji gube kontakt sa realnošću ili su pod uticajem manipulacije i paranoje.));
+((- Strah i smrt. Motivi smrti, bolesti i egzistencijalne pretnje česti su i služe kao simboli društvene krize.));
+((- Otuđenje i izolacija. Likovi su često otuđeni od društva, izloženi mehanizmima moći ili nevidljivim silama koje ih kontrolišu.));
+((- Manipulacija i autoritet. Tema kontrole — bilo kroz pojedince, institucije ili ideologije — pojavljuje se kao centralni konflikt.));
+((- Mit i simbolika. Narativi često koriste mitološke ili folklorne elemente da bi preneli univerzalne teme i strahove.)) //
+
+title = Početak analize ključnih filmova //
+subtitle = Das Cabinet des Dr. Caligari (1920) — Robert Wiene //
+text = Film prati priču o misterioznom doktoru Kaligariju i njegovom somnambulnom pomoćniku Cesareu, koji navodno predviđa smrt ljudi. Radnja se razvija kroz narativni okvir koji dovodi u pitanje pouzdanost pripovedača i granicu između stvarnosti i iluzije.
+Scenografija i vizuelni stil. Setovi su izrazito iskrivljeni: zgrade i ulice izgledaju kao da su nacrtane pod naglim uglovima, sa oštrim kontrastima i stilizovanim oblicima. Dekoracije su apstraktne i simbolične; prostor ne služi realističnom prikazu već psihološkoj projekciji. Ovaj pristup čini grad i enterijere neprijateljskim i nelagodnim, što pojačava osećanje paranoje.
+Režija i montaža. Režija koristi narativni okvir koji destabilizuje gledaočevu percepciju istine. Montaža i kadriranje naglašavaju subjektivnu perspektivu; prelazi između scena često su nagli i disonantni, što doprinosi osećanju dezorijentacije.
+Zašto je važan. „Kaligari“ se smatra prototipom filmskog ekspresionizma jer jasno artikuliše estetske principe pokreta: stilizovanu scenografiju, subjektivnu perspektivu i tematiku ludila i manipulacije. Film je postavio standard za vizuelni jezik koji su kasnije koristili drugi autori. //
+
+subtitle = Der Golem, wie er in die Welt kam (1920) — Paul Wegener //
+text = Film adaptira legendu o Golemu, stvorenju koje štiti jevrejsku zajednicu u Pragu, ali koje se vremenom okreće protiv svojih tvoraca. Priča istražuje granice kontrole i posledice stvaranja veštačkog bića.
+Scenografija i vizuelni stil. Scenografija koristi teške, simbolične forme i masivne strukture koje naglašavaju težinu i pretnju. Prostor je stilizovan tako da reflektuje mitološku dimenziju priče; arhitektura i dekoracije služe kao metafora za moć i strah.
+Režija i montaža. Film kombinuje narativnu jasnoću sa simboličkim prizorima. Montaža je usmerena na stvaranje ritma koji prati transformaciju Golema i eskalaciju konflikta.
+Zašto je važan. „Golem“ pokazuje kako ekspresionistički stil može da se primeni na mitološke i folklorne teme, pretvarajući ih u alegorije o moći, odgovornosti i strahu. //
+
+subtitle = Nosferatu (1922) — F. W. Murnau //
+text = Kratak sinopsis. Slobodna adaptacija romana o vampiru, film prati dolazak misterioznog grofa Orloka u grad i širenje smrti i bolesti. Atmosfera filma je prožeta osećanjem pretnje i neizbežne propasti.
+Scenografija i vizuelni stil. Murnau koristi pejzaže, arhitekturu i senke da stvori osećanje nadrealnog i pretećeg. Kompozicije su pažljivo konstruisane; senke i kontrasti igraju ključnu ulogu u stvaranju horor atmosfere.
+Režija i montaža. Režija se oslanja na vizuelne metafore i ritmičku montažu kako bi pojačala osećanje straha. Korišćenje pejzaža i prostora kao aktivnih elemenata priče čini film primerom kako ekspresionizam funkcioniše u žanru strave.
+Zašto je važan. „Nosferatu“ je jedan od najuticajnijih horor filmova ranog perioda i pokazuje kako ekspresionističke tehnike mogu da transformišu žanr, stvarajući trajne vizuelne motive za prikaz zla i smrti.
