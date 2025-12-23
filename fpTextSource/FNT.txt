@@ -43,6 +43,9 @@ multilevelText =
 ((Uticaj na popularnu kulturu: Estetika i teme novog talasa uticale su i na popularnu kulturu: muziku, modu, fotografiju i televiziju. Stilizacija svakodnevnog života i fokus na mladost postali su prepoznatljivi kulturni obrasci.)) //
 
 subtitle = Kritike i ograničenja //
+multilevelText = 
 ((Elitizam i zatvorenost: Kritičari su ukazivali da je novi talas ponekad bio zatvoren i elitistički, sa naglaskom na autorsku viziju koja je mogla isključiti širu publiku. Neki filmovi su bili više usmereni na teorijske eksperimente nego na komunikaciju sa gledateljima.));
 ((Nedostatak industrijske održivosti: Model niskobudžetne, autorske produkcije nije uvek bio održiv u dugom roku. Mnogi autori su kasnije morali da prilagode svoj rad komercijalnim zahtevima ili da rade u većim produkcijama.));
-((Reprodukcija stila bez sadržaja: Nakon početnog talasa, stil novog talasa je često kopiran bez razumevanja njegovih temeljnih ideja, što je dovodilo do površnih imitacija.))
+((Reprodukcija stila bez sadržaja: Nakon početnog talasa, stil novog talasa je često kopiran bez razumevanja njegovih temeljnih ideja, što je dovodilo do površnih imitacija.))//
+
+title = "Filmovi nastali tokom Francuskog Novog Talasa"
