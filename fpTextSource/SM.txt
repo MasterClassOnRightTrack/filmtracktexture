@@ -88,4 +88,6 @@ title = Kritika i ograničenja //
 text = Iako je sovjetska montaža bila revolucionarna, ona nije bila bez kritika. 
 Neki su smatrali da preterana upotreba montaže može dovesti do manipulacije gledalaca i do gubitka narativne koherencije. 
 Drugi su ukazivali na rizik da montaža postane cilj sama sebi, umesto sredstva za podršku priči. 
-Ove kritike su podstakle dalji razvoj teorije i prakse, tražeći ravnotežu između montažnog eksperimenta i narativne jasnoće.
+Ove kritike su podstakle dalji razvoj teorije i prakse, tražeći ravnotežu između montažnog eksperimenta i narativne jasnoće. //
+
+title = "Filmovi Nastali Tokom Sovjetske Montaže"
