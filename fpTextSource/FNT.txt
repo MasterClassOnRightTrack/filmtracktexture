@@ -48,4 +48,4 @@ multilevelText =
 ((Nedostatak industrijske održivosti: Model niskobudžetne, autorske produkcije nije uvek bio održiv u dugom roku. Mnogi autori su kasnije morali da prilagode svoj rad komercijalnim zahtevima ili da rade u većim produkcijama.));
 ((Reprodukcija stila bez sadržaja: Nakon početnog talasa, stil novog talasa je često kopiran bez razumevanja njegovih temeljnih ideja, što je dovodilo do površnih imitacija.))//
 
-title = "Filmovi nastali tokom Francuskog Novog Talasa"
+title = Filmovi nastali tokom Francuskog Novog Talasa
