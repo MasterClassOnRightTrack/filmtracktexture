@@ -90,4 +90,4 @@ Neki su smatrali da preterana upotreba montaže može dovesti do manipulacije gl
 Drugi su ukazivali na rizik da montaža postane cilj sama sebi, umesto sredstva za podršku priči. 
 Ove kritike su podstakle dalji razvoj teorije i prakse, tražeći ravnotežu između montažnog eksperimenta i narativne jasnoće. //
 
-title = "Filmovi Nastali Tokom Sovjetske Montaže"
+title = Filmovi Nastali Tokom Sovjetske Montaže
