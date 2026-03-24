@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<title>Filmovi</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Mr+Dafoe&family=Pinyon+Script&family=Italianno&display=swap" rel="stylesheet">
+	<style>
+
+        body {
+            background: #444444;
+        }
+    
+    	#slideTrack {
+        	width: auto;
+            height: 100vh;
+            position: fixed;
+            top: 0px;
+            left: 0px;
+            transition: left 55s linear;
+            z-index: 5000;
+        }
+        
+    	.filmTrackBlackStrap {
+            background: rgb(0, 0, 0);
+            width: 20px;
+            height: calc(100vh - 140px);
+            position: absolute;
+            top: 70px;
+        }
+    
+        .pozadina {
+            background: #444444 !important;
+            position: absolute;
+            width: 100vw;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        p {
+            color: rgb(211, 209, 209);
+        }
+
+        h1 {
+            color: #fbff44;
+        }
+
+        .tiled-horizontal {
+            width: 100vw;
+            height: 70px;	
+            background-image: url('https://raw.githubusercontent.com/MasterClassOnRightTrack/filmtracktexture/main/Film%20Track%20Optimized.png');
+            background-repeat: repeat-x;
+            background-position-x: 50%;
+            background-size: 50px 70px;
+            z-index: 2000;
+            overflow: hidden;
+        }
+        
+        .left {
+        	left: 0px;
+        }
+        
+        .right {
+        	right: 0px;
+        }
+        
+        .topLeft {
+            position: absolute;
+            left: 0px;
+            top: 0px;
+        }
+
+        .topCenter {
+            position: absolute;
+            left: 50%;
+            top: 0px;
+        }
+
+        .topRight {
+            position: absolute;
+            right: 50%;
+            top: 0px;
+        }
+
+        .centerLeft {
+            position: absolute;
+            left: 0px;
+            top: 50%;
+        }
+
+        .centerCenter {
+            position: absolute;
+            left: 50%;
+            top: 50%;
+        }
+
+        .centerRight {
+            position: absolute;
+            right: 50%;
+            top: 50%;
+        }
+
+        .bottomLeft {
+            position: absolute;
+            left: 0px;
+            bottom: 0px;
+        }
+
+        .bottomCenter {
+            position: absolute;
+            left: 50%;
+            bottom: 0px;
+        }
+
+        .bottomRight {
+            position: absolute;
+            right: 50%;
+            bottom: 0px;
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+        .canvasPreview {
+            font-size: 1rem;
+            position: absolute;
+            top: 50%;
+            transform: translate(0%, -50%);
+            width: calc(100vw - 40px);
+            height: auto;
+            background: transparent;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+        }
+
+        .main-title {
+            font-size: 12vw;
+            height: 15vw;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+
+            color: #ffb347;
+            -webkit-text-stroke: 2px #0a1a22;
+
+            /* Ultra cursive stack (most dramatic first) */
+            font-family: 'Mr Dafoe', 'Pinyon Script', 'Italianno', 'Great Vibes', cursive;
+
+            letter-spacing: 3px;
+        }
+
+        .liteTitle {
+            font-size: 2em !important;
+        }
+
+        .comment {
+            font-size: 1.5em;
+            margin: 10px 0;
+            text-align: center;
+
+            color: #fff8e7; /* warm off-white */
+            -webkit-text-stroke: 0.5px #12303a;
+
+            font-family: 'Dancing Script', 'Pacifico', 'Brush Script MT', cursive;
+        }
+
+        .author {
+            width: 100%;
+            text-align: center;
+            font-size: 3em;
+
+            color: #ffd700;
+            -webkit-text-stroke: 0.5px #0a1a22;
+
+            font-family: 'Italianno', 'Alex Brush', cursive;
+        }
+
+        .liteAuthor {
+            font-size: 1.5em !important;
+        }
+
+        .author::before {
+            content: "© ";
+            color: #ffd700;
+        }
+
+        .videoBox {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 50vw;
+            aspect-ratio: 1280 / 600;
+        }
+
+        .videoTextPreview {
+            font-size: 1rem;
+            position: absolute;
+            left: 65%;
+            top: 50%;
+            transform: translate(-65%, -50%);
+            width: 35%;
+            height: auto;
+            background: transparent;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+        }
+
+        .noBrightness {
+            opacity: 0;
+        }
+
+        .animation {
+            animation: powerOn 1.5s ease-in-out forwards;
+        }
+
+        @keyframes powerOn {
+            0% {
+                opacity: 0;
+            }
+
+            10% {
+                opacity: 0.1;
+            }
+
+            20% {
+                opacity: 0.2;
+            }
+            30% {
+                opacity: 0.3;
+            }
+            40% {
+                opacity: 0.4;
+            }
+            50% {
+                opacity: 0.5;
+            }
+
+            60% {
+                opacity: 0.6;
+            }
+            70% {
+                opacity: 0.7;
+            }
+
+            80% {
+                opacity: 0.8;
+            }
+            90% {
+                opacity: 0.9;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+
+        .powerOfAnimation {
+            animation: powerOFF 0.7s ease-out forwards;
+        }
+
+        @keyframes powerOFF {
+             0% {
+                opacity: 1;
+            }
+
+            10% {
+                opacity: 0.9;
+            }
+
+            20% {
+                opacity: 0.8;
+            }
+            30% {
+                opacity: 0.7;
+            }
+            40% {
+                opacity: 0.6;
+            }
+            50% {
+                opacity: 0.5;
+            }
+
+            60% {
+                opacity: 0.4;
+            }
+            70% {
+                opacity: 0.3;
+            }
+
+            80% {
+                opacity: 0.2;
+            }
+            90% {
+                opacity: 0.1;
+            }
+            100% {
+                opacity: 0;
+            }
+        }
+
+    </style>
+</head>
+
+<!-- React and ReactDOM from CDN
+<script src="https://unpkg.com/react@18/umd/react.development.js" crossorigin></script>
+<script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js" crossorigin></script>
+<-- Babel for JSX support in the browser -->
+<!-- <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script> --> 
+
+<body>
+	<div id = "slideTrack"></div>
+
+    <div class="videoBox" id = "videoBox">
+        <video id = "video" width = "100%" height =  "100%" muted>
+            <source src="filmskiPokretiVideo/filmTrackAnimating.mp4" type="video/mp4">
+        </video>
+
+        <div class="videoTextPreview noBrightness" id = "powerOnText">
+            <h1 class="main-title liteTitle">Filmovi</h1>
+            <h2 class="author liteAuthor">Zimin & Mihajlo Kravaric</h2>
+        </div>
+    </div>
+</body>
+
+<!-- <script type = "text/babel">
+	function Slide() {
+    	return (
+        	<div className = "pozadina">
+                <div id = "verticalTrack" className = "tiled-horizontal topLeft"></div>
+                <div id = "horizontalTrack" className = "tiled-horizontal bottomLeft"></div>
+                <div id = "leftStrap" className = "filmTrackBlackStrap left"></div>
+                <div id = "rightStrap" className = "filmTrackBlackStrap right"></div>
+            </div>
+        )
+    }
+    
+    const slideTrack = document.getElementById("slideTrack");
+    const reactRoot = ReactDOM.createRoot(slideTrack);
+    
+    // Render multiple Slide components in one call by mapping through an array
+    const slides = Array.from({ length: 10 }).map((_, i) => <Slide key={i} />);
+    
+    reactRoot.render(<>{slides}</>);
+
+    slideTrack.style.left = `calc(-100vw * 10)`;
+</script> -->
+
+<script id = "createSlides" >
+        
+    const slideTrack = document.getElementById("slideTrack");
+    const videoBox = document.getElementById("videoBox");
+    const video = document.getElementById("video");
+    const powerOnText = document.getElementById("powerOnText");
+
+    const idList = [
+        "verticalTrack",
+        "horizontalTrack",
+        "leftStrap",
+        "rightStrap"
+    ]
+
+    const idIntoClasses = {
+        "verticalTrack": ["tiled-horizontal", "topLeft"],
+        "horizontalTrack": ["tiled-horizontal", "bottomLeft"],
+        "leftStrap": ["filmTrackBlackStrap", "left"],
+        "rightStrap": ["filmTrackBlackStrap", "right"]
+    }
+
+    const filmSegments = [
+        "Prvi film u istoriji, 'Izlazak radnika iz fabrike' iz 1895, trajao je samo 45 sekundi.",
+        "Holivud je dobio ime po drveću 'holly' koje raste u Kaliforniji.",
+        "Najduži film ikada snimljen traje više od 857 sati i zove se 'Logistics'.",
+        "Film 'Titanic' je koštao više od samog broda Titanik kada je građen.",
+        "Zvuk dinosaurusovog rike u 'Jurassic Park' nastao je kombinacijom zvukova slona, tigra i aligatora.",
+        "Oscari su prvi put dodeljeni 1929. godine, a ceremonija je trajala samo 15 minuta.",
+        "U Indiji se godišnje snimi više od 1500 filmova, što je najviše na svetu.",
+        "Film 'Avatar' je bio prvi koji je zaradio više od 2 milijarde dolara na blagajnama.",
+        "Najkraći film koji je osvojio Oskara za najbolji kratki animirani film trajao je samo 3 minuta.",
+        "U nekim bioskopima u Japanu postoje posebna sedišta za parove, nazvana 'ljubavna sedišta'."
+    ];
+
+
+    function CreateSlides() {
+        // using old method without React
+        for (let i = 0; i < 10; i++) {
+            const pozadina = document.createElement("div");
+            pozadina.classList.add("pozadina");
+            pozadina.id = `pozadina_${i}`;
+            pozadina.style.setProperty("left", `calc(100vw * ${i})`, "important");
+
+
+            const canvasPreview = document.createElement("div");
+            canvasPreview.classList.add("canvasPreview");
+
+            const mainTitle = document.createElement("h1");
+            mainTitle.classList.add("main-title");
+            mainTitle.textContent = `${i + 1}/10`;
+
+            const comment = document.createElement("p");
+            comment.classList.add("comment");
+            comment.textContent = filmSegments[i];
+
+            const author = document.createElement("p");
+            author.classList.add("author");
+            author.textContent = "Zimin & Mihajlo Kravaric";
+
+            canvasPreview.appendChild(mainTitle);
+            canvasPreview.appendChild(comment);
+            canvasPreview.appendChild(author);
+            
+            pozadina.appendChild(canvasPreview);
+
+            slideTrack.appendChild(pozadina);
+
+            idList.forEach(id => {
+                const element = document.createElement("div");
+                element.id = `${id}_${i}`;
+                idIntoClasses[id].forEach(className => element.classList.add(className));
+                pozadina.appendChild(element);
+            });
+        };
+    };
+
+    CreateSlides();
+
+    setTimeout(() => {
+        slideTrack.style.left = `calc(-100vw * 11)`;
+
+        setTimeout(() => {
+            video.play();   
+            setTimeout(() => {
+                powerOnText.classList.add("animation");
+                setTimeout(() => {
+                    videoBox.classList.add("powerOffAnimation");
+                    setTimeout(() => {
+                        document.body.removeChild(slideTrack);
+                        document.body.removeChild(videoBox);
+                        setTimeout(() => {
+                            document.body.style.background = "transparent";
+                        }, 750)
+                    }, 250)
+                }, 2500)
+            }, 3000);
+        }, 50000); // delay to ensure the DOM is fully updated before starting the animation
+    }, 100); // delay to ensure the DOM is fully updated before starting the animation
+
+    // video aspect ratio 2.13333333333333333333333 width 1280, height 600
+
+</script>
+
+</html>
